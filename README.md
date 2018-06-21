@@ -13,7 +13,7 @@ With this library you can actually check if AA works for this machine. Once exec
 ## How this works?
 Simple. 
 
-Library creates detached canvas and draws triangle on it with WebGL.
+Library creates tiny detached canvas and draws triangle on it with WebGL.
 
 ![Image of Yaktocat](./test.png)
 

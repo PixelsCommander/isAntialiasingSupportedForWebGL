@@ -52,6 +52,13 @@ function isAntialiasingSupported() {
         }
     });
 
+    shaderProgram = null;
+    delete canvas;
+    canvas = null;
+    canvasSize = null;
+    fragmentShaderCode = null;
+    vertexShaderCode = null;
+
     return isAliased;
 }
 
