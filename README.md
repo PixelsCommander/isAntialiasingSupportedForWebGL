@@ -13,7 +13,7 @@ With this library you can actually check if AA works for this machine. Once exec
 ## How this works?
 Simple. 
 
-Library creates detached canvas and draws triangle on it.
+Library creates detached canvas and draws triangle on it with WebGL.
 
 ![Image of Yaktocat](./test.png)
 
@@ -24,6 +24,8 @@ If triangle have any pixels except white and black then it is antialiased and ``
 MIT: http://mit-license.org/
 
 Copyright 2018 Denis Radin aka [PixelsCommander](http://pixelscommander.com)
+
+## Credits
 
 Inspired by my work at Evolution Gaming
 [Evolution Gaming](https://www.evolutiongamingcareers.com/search-jobs/?department=Engineering&country=)
