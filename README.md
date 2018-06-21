@@ -27,5 +27,4 @@ Copyright 2018 Denis Radin aka [PixelsCommander](http://pixelscommander.com)
 
 ## Credits
 
-Inspired by my work at Evolution Gaming
-[Evolution Gaming](https://www.evolutiongamingcareers.com/search-jobs/?department=Engineering&country=)
+Inspired by my work at [Evolution Gaming](https://www.evolutiongamingcareers.com/search-jobs/?department=Engineering&country=)
