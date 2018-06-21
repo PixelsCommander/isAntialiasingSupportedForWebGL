@@ -8,7 +8,7 @@ With this library you can actually check if AA works for this machine. Once exec
 
 ## Installation
 
-```npm install isantialiasingenabled```
+```npm install isantialiasingsupported```
 
 ## How this works?
 Simple. 
