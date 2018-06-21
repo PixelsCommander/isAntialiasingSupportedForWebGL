@@ -6,12 +6,15 @@ With this library you can actually check if AA works for this machine. Once exec
 
 [Demo](http://pixelscommander.com/polygon/aatest/demo/)
 
-## Installation
+## Usage
 
 ```npm install isantialiasingsupported```
 
+include into your project and after you may check for
+
+```if (window.antialiasingSupported) ...```
+
 ## How this works?
-Simple. 
 
 Library creates tiny detached canvas and draws triangle on it with WebGL.
 
