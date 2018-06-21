@@ -3,13 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <title>AA test demo</title>
+    <style>
+        body{
+            font-family: "Helvetica Neue";
+        }
+    </style>
 </head>
 <body>
 <script src="../src/index.js"></script>
 <h1>
     Antialiasing: <script>
         if (window.antialiasingSupported) {
-            document.write('supported');
+            document.write('supported <img src="../check.jpeg">');
         } else {
             document.write('not supported');
         }

@@ -22,8 +22,6 @@ function isAntialiasingSupported() {
     canvas.width = canvasSize;
     canvas.height = canvasSize;
 
-    document.body.appendChild(canvas);
-
     gl = canvas.getContext('webgl', {
         antialias: true,
     });
